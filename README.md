@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Reverse Engineering**
 
-- 💬 Ask me about **C#,Python,Js**
+- 💬 Ask me about **C#,CPP,Python,Js**
 
-- 📫 How to reach me **admin@frezzyhook.com**
+- 📫 How to reach me **frezzyhook@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
